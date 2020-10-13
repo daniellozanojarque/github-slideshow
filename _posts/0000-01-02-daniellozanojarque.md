@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+tu boca no pierde el sabor a caramelo oh
 Use the left arrow to go back!
